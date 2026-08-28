@@ -11,4 +11,4 @@
 ---
 
 
-<p align="center"><i>Terima kasih sudah mampir ke profil saya! 🙌</i></p>
+<p align="center"><i>Thanks for visiting!🙌</i></p>
