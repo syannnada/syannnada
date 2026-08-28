@@ -5,10 +5,4 @@
 </p> -->
 
 ---
-
-### 🧑‍🎓 About me
-
----
-
-
 <p align="center"><i>Thanks for visiting!🙌</i></p>
