@@ -6,9 +6,7 @@
 
 <p>Hi, I'm Aryasatya Nur Syandana, a Software Engineering (RPL) student at State Vocational High School 5 Surakarta, based in Surakarta, Central Java, Indonesia. I'm currently learning HTML, CSS, JavaScript & PHP, and this is my first GitHub account as I begin my journey into web development. I'm always excited to learn new things and open to collaborating with others along the way.</p>
 
-###
-
-<h3 data-importer="text" align="left">Current Focus Rotation🧭</h3>
+# <h3 data-importer="text" align="left">Current Focus Rotation🧭</h3>
 
 ###
 
