@@ -46,12 +46,6 @@
 
 ---
 
-<h3 data-importer="text" align="left">Play Games With Me</h3>
-
-###
-
----
-
 ###
 
 <picture data-importer="pacman">
