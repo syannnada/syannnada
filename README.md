@@ -2,7 +2,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">About Me</h3>
+<h3 data-importer="text" align="left">About Me 🧑‍💻</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Current Focus Rotation</h3>
+<h3 data-importer="text" align="left">Current Focus Rotation🧭</h3>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Tools & Language</h3>
+<h3 data-importer="text" align="left">Tools & Language🛠️</h3>
 
 ###
 
