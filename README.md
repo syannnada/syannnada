@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Aryasatya Nur Syandana 👋</h1>
 
-###
-
-<h3 data-importer="text" align="left">About Me 🧑‍💻</h3>
+# <h3 data-importer="text" align="left">About Me 🧑‍💻</h3>
 
 ###
 
