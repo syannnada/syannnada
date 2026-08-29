@@ -14,11 +14,9 @@
 
 ###
 
-<h3 data-importer="text" align="left">Tools & Language🛠️</h3>
+# <h3 data-importer="text" align="left">Tools & Language🛠️</h3>
 
 ###
-
----
 
 ###
 
